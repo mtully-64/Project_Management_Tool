@@ -1,0 +1,2 @@
+Process PID of 1811 was sent the signal --> kill SIGTERM 1811
+Process PID of 490 was sent the signal --> kill SIGINT 490
